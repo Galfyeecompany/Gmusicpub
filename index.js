@@ -14,21 +14,21 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/1.mp3',
+        path: '1.mp3',
         displayName: 'Плохая Девочка',
-        cover: 'assets/1.jpg',
+        cover: '1.jpg',
         artist: 'Винтаж, ТРАВМА, SKIDRI, DVRKLXGHT',
     },
     {
-        path: 'assets/2.mp3',
+        path: '2.mp3',
         displayName: 'Часики TikTok Remix',
-        cover: 'assets/2.jpg',
+        cover: '2.jpg',
         artist: 'Валерия',
     },
     {
-        path: 'assets/3.mp3',
+        path: '3.mp3',
         displayName: 'Вместе',
-        cover: 'assets/3.jpg',
+        cover: '3.jpg',
         artist: 'Bushido Zho, Markul',
     }
 ];
